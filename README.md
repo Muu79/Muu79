@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Muaaz Bhyat
-- 👀 I’m interested in Development in C++, Java, C#, Python, JS(node, express), HTML + CSS
-- 🌱 I’m currently learning React, Redux, Rust, Solidity
+- 👀 I’m interested in Development in Solidity, ,C++, Java, C#, Python, JS/TS(node, express, React + Redux and Nextjs), HTML + CSS
+- 🌱 I’m currently learning Rust 
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me 
 -   +Email: MuaazBhyat1@gmail.com
